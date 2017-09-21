@@ -1,0 +1,26 @@
+
+p {
+width: 200px;
+height: 300px;
+margin: 20px;
+float: left;
+}
+
+ul {
+width: 200px;
+height: 300px;
+float:left;
+}
+
+table {
+width: 200px;
+border: 1px solid;
+height: 300px;
+float:left;
+}
+
+img {
+width:200px;
+height: 300px;
+float: left;
+}
